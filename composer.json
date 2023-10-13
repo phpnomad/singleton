@@ -16,12 +16,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Phoenix\\Core\\": "lib/"
+            "Phoenix\\Singleton\\": "lib/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Phoenix\\Core\\Tests\\": "tests/"
+            "Phoenix\\Singleton\\Tests\\": "tests/"
         }
     },
     "authors": [
