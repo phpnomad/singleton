@@ -1,6 +1,6 @@
 <?php
 
-namespace Phoenix\Singleton\Traits;
+namespace PHPNomad\Singleton\Traits;
 
 trait WithInstance
 {
